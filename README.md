@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VitorQuiroga
+- 👀 I’m interested in code
+- 🌱 I’m currently learning python
+- 📫 How to reach me @quirogavitor in instagram!
